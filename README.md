@@ -1,6 +1,7 @@
 ### Hi there 👋
 You can find me in [Telegram](https://t.me/can2can), [Discord](https://discordapp.com/users/293423869681991680).
 
+My LeetCode stats:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dmk0n&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **dmk0n/dmk0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
