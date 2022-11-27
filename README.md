@@ -1,7 +1,7 @@
 ### Hi there 👋
 You can find me in [Telegram](https://t.me/can2can), [Discord](https://discordapp.com/users/293423869681991680).
 
-([My LeetCode stats:](https://leetcode.com/dmk0n/))
+[My LeetCode stats:](https://leetcode.com/dmk0n/)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dmk0n&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
