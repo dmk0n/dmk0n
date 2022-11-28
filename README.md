@@ -7,7 +7,7 @@ You can find me in [Telegram](https://t.me/can2can), [Discord](https://discordap
 
 [My codewars stats:](https://www.codewars.com/users/dmk0n)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/dmk0n)  
+[![codewars](https://www.codewars.com/users/dmk0n/badges/large)](https://www.codewars.com/users/dmk0n)  
 <!--
 **dmk0n/dmk0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
